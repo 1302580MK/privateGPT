@@ -4,6 +4,9 @@
 # Models
 models/
 
+# Models
+/models/
+
 # Local Chroma db
 .chroma/
 db/
